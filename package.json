@@ -1,0 +1,25 @@
+{
+  "name": "node_redis",
+  "version": "1.0.0",
+  "description": "Simple user management application in nodejs and redis.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puncoz/nodejs-redis.git"
+  },
+  "keywords": [
+    "nodejs",
+    "redis",
+    "user",
+    "management"
+  ],
+  "author": "Puncoz Nepal <info@puncoz.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puncoz/nodejs-redis/issues"
+  },
+  "homepage": "https://github.com/puncoz/nodejs-redis#readme"
+}
